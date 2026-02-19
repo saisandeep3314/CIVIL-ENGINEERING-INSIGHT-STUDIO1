@@ -26,4 +26,7 @@ The application is built with a clear modular structure: 1.User Interface (UI): 
 3.AI Model: Uses Large Language Models (LLMs) to analyze images and generate text-based insights.
 
 4.Output Module: Displays generated engineering reports and allows for data export.
+![WhatsApp Image 2026-02-19 at 8 08 25 PM](https://github.com/user-attachments/assets/4ceb00e3-48cf-4dc5-85c9-a3ef3a5868f2)
+
+
 

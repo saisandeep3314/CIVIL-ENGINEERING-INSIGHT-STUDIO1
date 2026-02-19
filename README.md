@@ -1,4 +1,4 @@
-🏗️# CIVIL INGINEERING INSIGHT STUDIO
+🏗️**CIVIL INGINEERING INSIGHT STUDIO**
 The Civil Engineering Insight Studio is an AI-powered platform designed to automate the analysis of civil engineering structures. By leveraging Artificial Intelligence, the system identifies construction materials, documents project progress, and generates detailed structural insights from images, reducing the need for manual, subjective analysis.
 
 👾 #Problem Statement
